@@ -15,3 +15,6 @@ function calculate() {
         display.value = "Error";
     }
 }
+console.log("hello wolrd");
+console.log("If you want to help me to make the site better follow this link")
+console.log("https://github.com/OrangeJuicy69/DumbDragon")
